@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hebergtonserv.fr	TRUE	/	FALSE	1999999999	WHMCSRIQNJZYn9XOh	qq6aslprjtsap5ror530gjsqmj
+mediatheque.rillieuxlapape.fr	TRUE	/	FALSE	1999999999	cookiesession1	678A3E127ADD3AD680CFE987F5FFDCC3
+hebergtonserv.fr	TRUE	/	FALSE	1999999999	x4b_c	M)yawU(D0RGm6pj(4Fr)vbVBi79P
+

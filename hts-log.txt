@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 29 May 2022 18:34:56 at https://hebergtonserv.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hebergtonserv.fr/ -O1 "D:\menu\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:35:18	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/x4b_f=UOtzCRPgKMag5fcxkXTVkq6C92w2LIkH(KL5rm4Q6wq_;path=/ (from https://hebergtonserv.fr/)
+18:36:28	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/templates/croster/assets/less/themes/owl.video.play.png (from https://hebergtonserv.fr/templates/croster/assets/css/themes/style.min.css?v=441757998)
+18:36:28	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/templates/croster/assets/less/themes/images/loading_background.png (from https://hebergtonserv.fr/templates/croster/assets/css/themes/style.min.css?v=441757998)
+18:36:28	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/templates/croster/assets/less/themes/images/loading.gif (from https://hebergtonserv.fr/templates/croster/assets/css/themes/style.min.css?v=441757998)
+18:36:28	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/templates/croster/assets/less/themes/images/controls.png (from https://hebergtonserv.fr/templates/croster/assets/css/themes/style.min.css?v=441757998)
+18:37:14	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/password/x4b_f=UOtzCRPgKMag5fcxkXTVkq6C92w2LIkH(KL5rm4Q6wq_;path=/ (from https://hebergtonserv.fr/password/reset)
+18:37:22	Error: 	"Not Found" (404) at link https://hebergtonserv.fr/announcements/view/x4b_f=UOtzCRPgKMag5fcxkXTVkq6C92w2LIkH(KL5rm4Q6wq_;path=/x4b_f=UOtzCRPgKMag5fcxkXTVkq6C92w2LIkH(KL5rm4Q6wq_;path=/ (from https://hebergtonserv.fr/announcements/view/x4b_f=UOtzCRPgKMag5fcxkXTVkq6C92w2LIkH(KL5rm4Q6wq_;path=/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 26 seconds : 180 links scanned, 172 files written (33593743 bytes overall) [19668210 bytes received at 134713 bytes/sec], 20859757 bytes transferred using HTTP compression in 116 files, ratio 31%, 10.1 requests per connection
+(7 errors, 0 warnings, 0 messages)
